@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="Exp4.xsl"?>
+
+<Hospitality_Services>
+
+	<properties>
+		<propertyname> Lonavala Villa </propertyname>
+		<location> Lonavala </location>
+		<type> Villa </type>
+		<amenities> 3 bedrooms , living room with LCD tv , swimming pool , terrace , cook available , barbeque and bornfire (chargeable) </amenities>
+	</properties>
+
+	<properties>
+		<propertyname> Lavasa villa </propertyname>
+		<location> Valley Street, Lavasa </location>
+		<type> Villa </type>
+		<amenities> 3 rroms with ac, living room with LCD tv, lake view, Separate room for Caretaker, Personal garden with Indoor Game Room </amenities>
+	</properties>
+
+	<properties>
+		<propertyname> Moksh Farms </propertyname>
+		<location> Pawna Damn, Lonavala </location>
+		<type> Hotel (Farm House )</type>
+		<amenities> Pure veg and jain food , swimming pool , children play area, tennis court, restaurant, box cricket, table tennis, pool table </amenities>
+	</properties>
+
+</Hospitality_Services>

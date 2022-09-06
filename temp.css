@@ -1,0 +1,94 @@
+/* setting background image */
+body, html {
+  height: 100%;
+  margin: 0;
+}
+
+.bg {
+  /* The image used */
+  background-image: url("buddha.JPEG");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+<div class = "container">
+        <img src = "buddha.JPEG" alt = "buddha" style="width:100%;">
+        <div class="topnav">
+            <a class="active" href="#contactus">CONTACT US </a>
+            <a class="active" href="#properties">PROPERTIES</a>
+            <a class="active" href="#aboutus">ABOUT US</a>
+            <a class="active" href="#home">HOME</a>
+            </div>
+            <div class ="welcome">
+              <h1>Welcome to SJB Hospitality services</h1>
+              <h3>SERVICED APARTMENTS, LEISURE VILLAS & FARM HOUSE</h3>
+            </div>
+        </div>
+
+
+<section class ="properties">
+      <div class = "container m">
+        <h2 class = "title-properties">Moksh Farms</h2>
+        <div class="outline"><img src="https://www.alliancehospitality.in/images/icon-our.png" class="center"></div>
+        <p class="properties-p">An Exclusive Farm House, Pawna Dam Road</p>
+        <div class = "moksh">
+            <img src="buddha.JPEG" alt = "MOKSH FARMS" class="center">
+            <h5> Relax in the lap of nature</h5>
+        </div>
+      </div>
+    </section>
+
+    <section class="properties">
+      <div class ="container m">
+        <h2 class = "title-properties"> Moksh Farms, Lonavala</h2>
+        <div class="outline"><img src="https://www.alliancehospitality.in/images/icon-our.png" class="center"></div>
+        <p class ="properties-p">An Exclusive Farm House, Pawna Dam Road</p>
+        <img src = "buddha.JPEG" alt = "MOKSH FARMS" class = "center">
+      </div>
+    </section>
+
+      <section>
+    <div class="bg-img">
+        <div class="container">
+        <div class="topnav">
+          <a class="active" href="sjb">SJB</a>
+          <div class="topnav-right">
+                <a href="#contactus">CONTACT US </a>
+                <a href="#properties">PROPERTIES</a>
+                <a href="#aboutus">ABOUT US</a>
+                <a href="#home">HOME</a>
+            </div>
+        </div>
+        <div class = "welcome">
+          <h1>Welcome to <br> SJB Hospitality services</h1>
+            <h3>SERVICED APARTMENTS, LEISURE VILLAS & FARM HOUSE</h3>
+        </div>
+    </div>
+    </div>
+</section>
+
+    <section class ="properties">
+      <div class = "container v">
+        <h2 class = "title-properties">Leisure Villas</h2>
+        <div class="outline"><img src="https://www.alliancehospitality.in/images/icon-our.png" class="center"></div>
+        <p class="properties-p">We offer luxurious and elegant villas in Lonavala and Lavasa for your vacation trips and weekend getaways.</p>
+        <div class = "row">
+          <div class = "column">
+            <img src="lavasa.jpg" alt="LAVASA" style="width:100%">
+            <h5> LAVASA </h5>
+          </div>
+          <div class = "column">
+            <img src="lonavala.jpg" alt="LONAVALA" style="width:100%">
+            <h5> LONAVALA </h5>
+          </div>
+        </div>
+      </div>
+    </section>
